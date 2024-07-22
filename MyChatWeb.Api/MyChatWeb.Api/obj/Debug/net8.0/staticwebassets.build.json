@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jT4UmwdOpGQ7gT7ZGNPaJqTl1cYqy6xr3fS7aEMr8g0=",
+  "Source": "MyChatWeb.Api",
+  "BasePath": "_content/MyChatWeb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
